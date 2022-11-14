@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Extract local variable &apos;filter&apos; from expression &apos;List.of(&quot;Ranga&quot;,&quot;Ravi&quot;).stream().filter(s -&gt; s.length() &lt; 6)&apos;&#x0A;- Original project: &apos;java_new_api_features&apos;&#x0A;- Variable name: &apos;filter&apos;&#x0A;- Destination method: &apos;com.in28minutes.api.e.TypeInferencesRunner.main(...)&apos;&#x0A;- Variable expression: &apos;List.of(&quot;Ranga&quot;,&quot;Ravi&quot;).stream().filter(s -&gt; s.length() &lt; 6)&apos;&#x0A;- Replace occurrences of expression with variable" description="Extract local variable &apos;filter&apos;" final="false" id="org.eclipse.jdt.ui.extract.temp" input="/src&lt;com.in28minutes.api.e{TypeInferencesRunner.java" name="filter" replace="true" selection="568 61" stamp="1667592150939" varType="false" version="1.0"/>
+</session>

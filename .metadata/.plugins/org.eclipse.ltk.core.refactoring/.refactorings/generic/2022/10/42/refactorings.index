@@ -1,0 +1,5 @@
+1665427353682	Delete element
+1665430979634	Rename type variable 'TYPE'
+1665587732103	Extract method 'normalSum'
+1665604221760	Extract method 'fpSum'
+1665604345007	Inline local variable 'sum1'

@@ -1,0 +1,28 @@
+2022-09-01 09:04:50,072 [Worker-8: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2022-09-07 09:23:35,053 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-05 10:51:32,456 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-05 10:56:14,808 [Worker-33: Push to 28minjavapractice - java-practive] INFO  o.a.s.c.u.s.e.EdDSASecurityProviderRegistrar - getOrCreateProvider(EdDSA) created instance of net.i2p.crypto.eddsa.EdDSASecurityProvider
+2022-10-05 10:56:15,013 [Worker-33: Push to 28minjavapractice - java-practive] INFO  o.a.s.c.i.DefaultIoServiceFactoryFactory - No detected/configured IoServiceFactoryFactory using Nio2ServiceFactoryFactory
+2022-10-05 14:13:43,232 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-05 14:18:21,930 [Worker-30: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/28minjavapractice/.git]
+2022-10-17 15:01:57,562 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-18 09:29:16,258 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-18 09:32:10,119 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-18 15:20:48,535 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-10-19 09:10:30,078 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-10-31 07:48:35,649 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-02 12:17:40,349 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-10 15:02:37,974 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-11-10 15:04:32,259 [Worker-29: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/java-practices/.git]
+2022-11-10 15:04:41,352 [Worker-29: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/firstcommit/.git]
+2022-11-10 15:04:45,343 [Worker-36: Refreshing workspace] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/eclipse-workspace/First Udemy Java Proj/java-practice/.git]
+2022-11-10 15:04:53,594 [Worker-29: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/java-practice/.git]
+2022-11-10 15:07:21,490 [Worker-19: Cloning from https://github.com/Ybyonas1/java-practices.git] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/javapractices/.git]
+2022-11-10 15:11:29,508 [Worker-17: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/repository/.git]
+2022-11-10 15:13:19,835 [Worker-17: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/repositoryteset/.git]
+2022-11-10 15:54:10,785 [Worker-57: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/java-practices1/.git]
+2022-11-10 15:54:13,556 [main] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/repositorytest/.git]
+2022-11-10 16:11:55,697 [Worker-9: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-11-10 16:17:04,926 [Worker-14: Git Repository Change Scanner] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/attempt1/.git]
+2022-11-10 16:22:42,794 [Worker-33: Remove Repositories] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/repository2/.git]
+2022-11-10 16:23:00,040 [Git Repository Closer] WARN  org.eclipse.jgit.lib.Repository - close() called when useCnt is already zero for Repository[/Users/yonaswoldemichael/git/java-practices2/.git]

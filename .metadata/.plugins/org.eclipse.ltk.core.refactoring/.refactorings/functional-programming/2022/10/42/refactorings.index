@@ -1,0 +1,4 @@
+1665582741007	Extract method 'printBasic'
+1665763499288	Delete element
+1665778081399	Extract local variable 'evenPredicate'
+1665778142400	Extract method 'createEvenPredicate'
